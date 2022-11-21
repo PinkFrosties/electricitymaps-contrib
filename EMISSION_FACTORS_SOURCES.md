@@ -141,6 +141,8 @@ It only describes zone specific emission factors. Our default emission factors c
       - [IPCC 2014](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf#page=7)
     - solar
       - [INCER ACV](https://docs.google.com/spreadsheets/d/1w5DJ7sPen6axIHU8TCVcuzNCjlct4I6JAbhUlw-ZXu8/edit?usp=sharing)
+    - Nuclear
+      - [PSI LCA 2018](https://www.psi.ch/en/ta/projects/life-cycle-assessment-lca-of-nuclear-power-in-switzerland)
 - CY
   - Direct emission factors
     - biomass
